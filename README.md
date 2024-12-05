@@ -1,4 +1,4 @@
-# ΕΡΓΑΣΙΑ Σ.Δ.Β.Δ. Μαρία Δημακογιάννη, Π17025, Αργύρης Γκιζίνος, Π18027, Νίκος Αρκουλής, Π18012
+# MINIDB PROJECT, NIKOLAOS ARKOULIS
 
 ## 1	WHERE statement enrichment
 
